@@ -5,8 +5,12 @@ Slides and lightweight materials for my talks. Each folder = one talk.
 - License: CC BY 4.0 (unless stated otherwise)
 
 ## Index
-- 2025 — APS Global Summit — *Exact Analytical Solutions for Modeling Cosmological Black Holes*  
+- 2025 - APS Global Summit - *Exact Analytical Solutions for Modeling Cosmological Black Holes*  
   [Slides (PDF)](./2025-APS-Global-Summit/Kopteva_2025_APS_Global_Summit.pdf)
+- 2026 - APS Global Summit - *Isotropic Coordinates for Generalized Schwarzschild-like Black Holes with Anisotropic Media*  
+  [Slides (PDF)](./2026-APS-Global-Summit/Kopteva_2026_APS_Isotropic_Coordinates.pdf)
+- 2026 - UIUC ARC Seminar - *Approaching Dirty Black Holes*  
+  [Slides (PDF)](./2026-UIUC-ARC-Seminar/Kopteva_2026_ARC_Dirty_BHs.pdf)
 
 ## How to cite
 Kopteva, E. (Year). Talk title, Venue. Slides. (link)
